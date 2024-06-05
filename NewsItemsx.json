@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 26,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Manveena Suri, Kathleen Magramo",
+      "title": "Fire at India children’s hospital kills six newborns",
+      "description": "At least six newborn babies died in a fire at a children’s hospital in the Indian capital of New Delhi on Saturday, local officials said.",
+      "url": "https://www.cnn.com/2024/05/26/india/india-newborns-killed-hospital-fire-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20656927-24484-still.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-26T05:52:11Z",
+      "content": "At least six newborn babies died in a fire at a childrens hospital in the Indian capital of New Delhi on Saturday, local officials said.\r\nTwelve newborns were rescued from the hospital, but six died … [+835 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Fire kills six newborns at baby hospital in India's capital",
+      "description": "Six newborns have died in a fire at a baby care hospital in India's capital New Delhi, local authorities said on Sunday.",
+      "url": "https://www.reuters.com/world/india/fire-kills-six-newborns-baby-hospital-indias-capital-2024-05-26/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=192",
+      "publishedAt": "2024-05-26T05:43:41Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "BEN NUCKOLS",
+      "title": "National Spelling Bee reflects the economic success and cultural impact of immigrants from India",
+      "description": "When Balu Natarajan became the first Indian American champion of the Scripps National Spelling Bee in 1985, a headline on an Associated Press article read, “Immigrants’ son wins National Spelling Bee,” with the first paragraph noting the champion “speaks his …",
+      "url": "https://apnews.com/b14ba87533dfcd8af813de568ee5958f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9d47672141b34313bf9643a059fa19c8/2857.jpeg",
+      "publishedAt": "2024-05-26T04:58:26Z",
+      "content": "When Balu Natarajan became the first Indian American champion of the Scripps National Spelling Bee in 1985, a headline on an Associated Press article read, “Immigrants’ son wins National Spelling Bee… [+5842 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "The Indian Express",
+      "title": "BSE 10th Result 2024 Odisha (Out): Websites to check Matric results at bseodisha.ac.in at 11:30 am - The Indian Express",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2JzZS1vZGlzaGEtMTB0aC1yZXN1bHQtMjAyNC13ZWJzaXRlcy10by1jaGVjay1tYWRoeWFtaWstbWFya3MtYnNlb2Rpc2hhLWFjLWluLXdoYXRzYXBwLW1hdHJpYy1vcmlzc2FyZXN1bHRzLW5pYy1pbi05MjUxMjUwL9IBrAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2JzZS1vZGlzaGEtMTB0aC1yZXN1bHQtMjAyNC13ZWJzaXRlcy10by1jaGVjay1tYWRoeWFtaWstbWFya3MtYnNlb2Rpc2hhLWFjLWluLXdoYXRzYXBwLW1hdHJpYy1vcmlzc2FyZXN1bHRzLW5pYy1pbi05MjUxMjUwL2xpdGUv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T04:04:18+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "India Today",
+      "title": "Pune teen's Porsche car was a birthday gift, his grandfather told friends - India Today",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L3BvcnNjaGUtY2FyLXB1bmUtY3Jhc2gtYWNjdXNlZC11c2VkLXdhcy1hLWdpZnQtaGlzLWdyYW5kZmF0aGVyLXRvbGQtZnJpZW5kcy0yNTQzOTExLTIwMjQtMDUtMjbSAYgBaHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9hbXAvaW5kaWEvc3RvcnkvcG9yc2NoZS1jYXItcHVuZS1jcmFzaC1hY2N1c2VkLXVzZWQtd2FzLWEtZ2lmdC1oaXMtZ3JhbmRmYXRoZXItdG9sZC1mcmllbmRzLTI1NDM5MTEtMjAyNC0wNS0yNg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T03:33:09+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "The Times of India",
+      "title": "6 babies dead, several injured in massive fire at Delhi children's hospital - The Times of India",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlbGhpLzYtYmFiaWVzLWRlYWQtc2V2ZXJhbC1pbmp1cmVkLWluLW1hc3NpdmUtZmlyZS1hdC1kZWxoaS1jaGlsZHJlbnMtaG9zcGl0YWwvYXJ0aWNsZXNob3cvMTEwNDMxNDcyLmNtc9IBlgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2RlbGhpLzYtYmFiaWVzLWRlYWQtc2V2ZXJhbC1pbmp1cmVkLWluLW1hc3NpdmUtZmlyZS1hdC1kZWxoaS1jaGlsZHJlbnMtaG9zcGl0YWwvYW1wX2FydGljbGVzaG93LzExMDQzMTQ3Mi5jbXM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T03:02:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "NDTV",
+      "title": "\"People Will Be Proud If I...\": Rajnath Singh On India-China Border Talks - NDTV",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uZHR2LmNvbS9pbmRpYS1uZXdzL3Jham5hdGgtc2luZ2gtZXhjbHVzaXZlLXBlb3BsZS13aWxsLWJlLXByb3VkLWlmLWktcmFqbmF0aC1zaW5naC1vbi1pbmRpYS1jaGluYS1ib3JkZXItdGFsa3MtNTc0NzA1NtIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T01:58:47+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "The Times of India",
+      "title": "11 dead, 10 injured as dumper truck falls on bus parked near highway in UP’s Shahjahanpur - The Times of India",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2JhcmVpbGx5LzExLWRlYWQtMTAtaW5qdXJlZC1hcy1kdW1wZXItdHJ1Y2stZmFsbHMtb24tYnVzLXBhcmtlZC1uZWFyLWhpZ2h3YXktaW4tdXBzLXNoYWhqYWhhbnB1ci9hcnRpY2xlc2hvdy8xMTA0MzE0MTQuY21z0gGnAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvYmFyZWlsbHkvMTEtZGVhZC0xMC1pbmp1cmVkLWFzLWR1bXBlci10cnVjay1mYWxscy1vbi1idXMtcGFya2VkLW5lYXItaGlnaHdheS1pbi11cHMtc2hhaGphaGFucHVyL2FtcF9hcnRpY2xlc2hvdy8xMTA0MzE0MTQuY21z?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T01:22:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "The Hindu",
+      "title": "India General Elections 2024 LIVE Updates: PM Modi to address rallies in Uttar Pradesh; Rahul Gandhi campaigns in Himachal Pradesh - The Hindu",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9lbGVjdGlvbnMvbG9rLXNhYmhhL2luZGlhLWdlbmVyYWwtZWxlY3Rpb25zLTIwMjQtbGl2ZS11cGRhdGVzLW1heS0yNi9hcnRpY2xlNjgyMTU5MTYuZWNl0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T01:06:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Bloomberg",
+      "title": "India's Markets Brace for Selloff If Modi, BJP Disappoints at Elections",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA1LTI2L2luZGlhLXMtbWFya2V0cy1icmFjZS1mb3Itc2VsbG9mZi1pZi1tb2RpLWJqcC1kaXNhcHBvaW50cy1hdC1lbGVjdGlvbnPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T00:00:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "9News",
+      "title": "At least 27 people killed in amusement park fire in India - 9News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LjluZXdzLmNvbS5hdS93b3JsZC9hdC1sZWFzdC0yNy1wZW9wbGUta2lsbGVkLWluLWFtdXNlbWVudC1wYXJrLWZpcmUtaW4taW5kaWEvNTkwNWU1OWQtNDZhYy00NDNjLWIyMzYtMzAxN2FmMzQzYzA00gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvNTkwNWU1OWQtNDZhYy00NDNjLWIyMzYtMzAxN2FmMzQzYzA0?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-25T21:58:39+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "TODD RICHMOND Associated Press",
+      "title": "Globe-trotting archeologist who drew comparisons to Indiana Jones dies at age 94",
+      "description": "Globe-trotting adventurer Schuylar Jones went on to run Oxford University museum",
+      "url": "https://abcnews.go.com/US/wireStory/globe-trotting-archeologist-drew-comparisons-indiana-jones-dies-110562721",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-05-25T17:19:00Z",
+      "content": "MADISON, Wis. -- Schuylar Jones, a globe-trotting American adventurer whose exploits drew comparisons to iconic movie character Indiana Jones, has died. He was 94.\r\nJones' stepdaughter, Cassandra Da'… [+4209 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "The Associated Press",
+      "title": "At least 20 dead in a fire in an amusement park in western India, police say",
+      "description": "Police say they will file a case of negligence against the park owner.",
+      "url": "https://abcnews.go.com/International/wireStory/16-dead-fire-amusement-park-western-india-reports-110561584",
+      "urlToImage": "https://i.abcnewsfe.com/a/4d4d71a6-e581-4e57-8fa2-644925d840ca/wirestory_a73b2212f131b2ff2bec842814cd8ac9_16x9.jpg?w=1600",
+      "publishedAt": "2024-05-25T15:33:48Z",
+      "content": "NEW DELHI -- A massive fire broke out Saturday in an amusement park in Gujarat state in western India, leaving at least 20 people dead, police said. \r\nThe fire erupted at the park in the city of Rajk… [+1080 chars]"
+    },
+    {
+      "source": { "id": "la-repubblica", "name": "La Repubblica" },
+      "author": "La Repubblica",
+      "title": "India, l'elicottero fuori controllo mentre atterra vicino un tempio himalayano: sfiorato lo schianto",
+      "description": "Paura in India, nei pressi di Kedarnath in Uttarakhand sulle montagne himalayane: un elicottero è andato fuori controllo mentre atterrava per il trasporto di pellegrini che volevano per visitare un tempio tra le montagne. L’elicottero ha iniziato a ruotare vi…",
+      "url": "https://video.repubblica.it/mondo/india-l-elicottero-fuori-controllo-mentre-atterra-vicino-un-tempio-himalayano-sfiorato-lo-schianto/470115/471067",
+      "urlToImage": "https://www.repstatic.it/video/photo/2024/05/24/960149/960149-thumb-full-720-240524_elicottero_fuori_controll.jpg",
+      "publishedAt": "2024-05-24T10:57:08Z",
+      "content": null
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Dev Pragad, President and CEO",
+      "title": "On the World Stage: Newsweek's Interviews with Indian Prime Minister Modi and Japanese Prime Minister Kishida",
+      "description": "We aim to transcend surface-level narratives, offering coverage that creates opportunities for true international dialogue.",
+      "url": "https://www.newsweek.com/world-stage-newsweeks-interviews-indian-prime-minister-modi-japanese-prime-minister-kishida-1895648",
+      "urlToImage": "https://d.newsweek.com/en/full/2385807/dev-pragad-modi-kishida-newsweek-interview.jpg",
+      "publishedAt": "2024-04-30T14:55:15Z",
+      "content": "Newsweek's core mission is to provide our readers with a deep and nuanced understanding of the world around them. That means embracing a truly global perspective. We aim to transcend surface-level na… [+5470 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Emma Hinchliffe, Paige McGlauflin",
+      "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+      "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+      "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T13:22:34Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "Ananth Krishnan",
+      "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+      "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+      "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+      "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+      "publishedAt": "2021-07-22T15:47:01Z",
+      "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+    },
+    {
+      "source": { "id": "rte", "name": "RTE" },
+      "author": "RTÉ News",
+      "title": "UK continues with reopening plan despite concerns",
+      "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+      "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+      "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+      "publishedAt": "2021-05-15T09:33:48Z",
+      "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Rajat Pandit",
+      "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+      "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+      "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T08:29:00Z",
+      "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Times Of India",
+      "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+      "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+      "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T05:44:49Z",
+      "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+    }
+  ]
+}
